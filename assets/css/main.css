@@ -3964,11 +3964,11 @@ input, select, textarea {
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 		#footer a {
-			color: #717981;
+			color: #f6ebff;
 			border-bottom-color: rgba(113, 121, 129, 0.5);
 		}
 
@@ -3978,11 +3978,11 @@ input, select, textarea {
 			}
 
 		#footer strong, #footer b {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 		#footer blockquote {
@@ -4008,8 +4008,8 @@ input, select, textarea {
 		#footer button,
 		#footer .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #717981;
-			color: #717981 !important;
+			box-shadow: inset 0 0 0 2px #f6ebff;
+			color: #f6ebff !important;
 		}
 
 			#footer input[type="submit"]:hover,
@@ -4026,7 +4026,7 @@ input, select, textarea {
 			#footer input[type="button"].primary,
 			#footer button.primary,
 			#footer .button.primary {
-				background-color: #717981;
+				background-color: #f6ebff;
 				box-shadow: none;
 				color: #f5f5f5 !important;
 			}
@@ -4040,7 +4040,7 @@ input, select, textarea {
 				}
 
 		#footer label {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 		#footer input[type="text"],
@@ -4065,7 +4065,7 @@ input, select, textarea {
 
 			#footer select option {
 				background-color: #f5f5f5;
-				color: #717981;
+				color: #f6ebff;
 			}
 
 		#footer .select-wrapper:before {
@@ -4074,7 +4074,7 @@ input, select, textarea {
 
 		#footer input[type="checkbox"] + label,
 		#footer input[type="radio"] + label {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 			#footer input[type="checkbox"] + label:before,
@@ -4084,8 +4084,8 @@ input, select, textarea {
 
 		#footer input[type="checkbox"]:checked + label:before,
 		#footer input[type="radio"]:checked + label:before {
-			background-color: #717981;
-			border-color: #717981;
+			background-color: #f6ebff;
+			border-color: #f6ebff;
 			color: #f5f5f5;
 		}
 
@@ -4143,7 +4143,7 @@ input, select, textarea {
 			}
 
 		#footer table th {
-			color: #717981;
+			color: #f6ebff;
 		}
 
 		#footer table thead {
@@ -4163,7 +4163,7 @@ input, select, textarea {
 		}
 
 		#footer .pagination a {
-			color: #717981 !important;
+			color: #f6ebff !important;
 		}
 
 			#footer .pagination a:hover {
