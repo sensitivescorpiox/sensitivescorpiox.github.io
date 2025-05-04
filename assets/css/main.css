@@ -3766,7 +3766,7 @@ input, select, textarea {
 
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
-			border-top: solid 2px #c2b9d9;
+			border-top: solid 2px #9e8db0;
 			margin: 0;
 		}
 
@@ -3862,7 +3862,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > article {
-				border-color: #c2b9d9;
+				border-color: #9e8db0;
 				border-left-width: 2px;
 				border-style: solid;
 				border-top-width: 2px;
